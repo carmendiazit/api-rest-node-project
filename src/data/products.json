@@ -1,0 +1,39 @@
+[
+    {
+        "id": "4TG2Rcu5pncgNrdJXdeP",
+        "price": 5799111.99,
+        "name": "Vulpixaaaa",
+        "sku": "PKM001005",
+        "description": "Figuraciones",
+        "stock": 10,
+        "category": "Pokemonaaaaaaaaa"
+    },
+    {
+        "id": "PDT46LQctCiRO2rttLBc",
+        "category": "Pokemon",
+        "price": 5799.99,
+        "description": "Figura",
+        "sku": "PKM001005",
+        "stock": 10,
+        "name": "Vulpix"
+    },
+    {
+        "id": "i6aUPIdPQD3ZiPV5r5EI",
+        "category": "Pokemon",
+        "sku": "PKM001005",
+        "name": "Vulpix",
+        "stock": 10,
+        "description": "Figura",
+        "price": 5799.99
+    },
+    {
+        "id": "lg3ZfbO5j1k44O9cknBN",
+        "sku": "PKM001005",
+        "price": 5799.99,
+        "category": "Pokemon",
+        "stock": 10,
+        "description": "Figura",
+        "name": "Vulpix"
+    }
+
+]
