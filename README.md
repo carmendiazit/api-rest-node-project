@@ -1,3 +1,59 @@
+# API REST Node.js Project
+
+This is a Node.js REST API built with Express.js, Firebase, and JWT authentication.
+
+## Features
+
+- Express.js server
+- Firebase integration
+- JWT authentication
+- CORS enabled
+- Ready for Vercel deployment
+
+## Local Development
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Copy `.env.example` to `.env` and fill in your environment variables
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Deployment to Vercel
+
+1. Install Vercel CLI:
+   ```bash
+   npm install -g vercel
+   ```
+
+2. Deploy to Vercel:
+   ```bash
+   vercel
+   ```
+
+3. Set up environment variables in Vercel dashboard:
+   - `FIREBASE_API_KEY`
+   - `FIREBASE_AUTH_DOMAIN`
+   - `FIREBASE_PROJECT_ID`
+   - `FIREBASE_STORAGE_BUCKET`
+   - `FIREBASE_MESSAGING_SENDER_ID`
+   - `FIREBASE_APP_ID`
+   - `FIREBASE_MEASUREMENT_ID`
+   - `JWT_SECRET`
+
+## API Endpoints
+
+- `POST /auth/*` - Authentication routes
+- `GET/POST/PUT/DELETE /api/*` - Protected API routes (requires authentication)
+
+## Environment Variables
+
+See `.env.example` for required environment variables.
+
 # Backend Node.js Express with Firebase
 
 A RESTful API backend built with Node.js, Express, and Firebase integration, ready for deployment on Vercel.
