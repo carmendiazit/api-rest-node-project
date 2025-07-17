@@ -389,25 +389,6 @@ curl -X DELETE http://localhost:3000/api/products/4TG2Rcu5pncgNrdJXdeP \
   -H "Authorization: Bearer YOUR_JWT_TOKEN"
 ```
 
-## 🚀 Deployment
-
-### Vercel Deployment
-
-1. **Install Vercel CLI**
-   ```bash
-   npm i -g vercel
-   ```
-
-2. **Deploy**
-   ```bash
-   vercel
-   ```
-
-3. **Set Environment Variables**
-   Add your environment variables in the Vercel dashboard or via CLI:
-   ```bash
-   vercel env add
-   ```
 
 ## 📦 Scripts
 
