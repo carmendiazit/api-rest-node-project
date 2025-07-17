@@ -97,8 +97,8 @@ A RESTful API backend built with Node.js, Express, and Firebase integration, rea
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd backend-nodejs-express-firebase-vercel
+   git clone https://github.com/carmendiazit/api-rest-node-project.git
+   cd api-rest-node-project
    ```
 
 2. **Install dependencies**
